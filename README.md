@@ -1,8 +1,8 @@
   <div align="center">
 
-<h1 align="center">
-  <span style="color:#008080; font-size:42px;">MANAS RANJAN SAHU</span>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=1&pause=100000&color=14B8A6&center=true&vCenter=true&width=700&lines=MANAS+RANJAN+SAHU" alt="Manas Ranjan Sahu" />
+</p>
 
 <a href="https://linkedin.com/in/manas-sensei">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Data+Analyst+Consultant;SQL+%E2%80%A2+Snowflake+%E2%80%A2+dbt+%E2%80%A2+Python+%E2%80%A2+Power+BI;Building+Towards+Analytics+Engineering" alt="Typing Header" />
@@ -14,9 +14,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas-Sensei)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manassensei@gmail.com)
 
-<p align="center">
+<h3 align="center">
   <b>Bengaluru, India</b> • <b>3+ Years Experience</b> • <b>Open to Opportunities</b>
-</p>
+</h3>
 
 </div>
 
@@ -53,14 +53,6 @@
   <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0284C7?style=for-the-badge" alt="ETL / ELT" />
 </p>
 
-### Business Intelligence & Reporting
-<p>
-  <img src="https://img.shields.io/badge/POWER_BI-EAA832?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/TABLEAU-D36A34?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/LOOKER_STUDIO-5178DC?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio" />
-  <img src="https://img.shields.io/badge/EXCEL-3F7B4E?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-</p>
-
 ### Infrastructure & Tools
 <p>
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -69,6 +61,14 @@
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+</p>
+
+### Business Intelligence & Reporting
+<p>
+  <img src="https://img.shields.io/badge/POWER_BI-EAA832?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/TABLEAU-D36A34?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/LOOKER_STUDIO-5178DC?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/EXCEL-3F7B4E?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
 </div>
