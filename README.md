@@ -71,12 +71,12 @@
   <img src="https://img.shields.io/badge/EXCEL-3F7B4E?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
-## 📸 Photography
+### 📸 Photography
 
 <p align="center">
 
-<a href="YOUR_INSTAGRAM_URL">
-  <img src="https://img.shields.io/badge/Follow_My_Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/manas_sensei_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
