@@ -1,8 +1,8 @@
   <div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=1&pause=100000&color=14B8A6&center=true&vCenter=true&width=700&lines=MANAS+RANJAN+SAHU" alt="Manas Ranjan Sahu" />
-</p>
+<h1 align="center">
+  <font color="#14B8A6">MANAS RANJAN SAHU</font>
+</h1>
 
 <a href="https://linkedin.com/in/manas-sensei">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Data+Analyst+Consultant;SQL+%E2%80%A2+Snowflake+%E2%80%A2+dbt+%E2%80%A2+Python+%E2%80%A2+Power+BI;Building+Towards+Analytics+Engineering" alt="Typing Header" />
