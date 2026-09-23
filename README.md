@@ -27,68 +27,43 @@ Data Professional specializing in database internals, query optimization, and st
 
 ## 🛠️ Tech Stack & Tooling
 
-| Domain | Technologies / Tools |
-| :--- | :--- |
-| **Data Warehousing & Architecture** | Medallion Architecture (Bronze/Silver/Gold), Star / Snowflake Schema, ETL/ELT[cite: 2] |
-| **Databases & Query Engines** | Advanced SQL, PostgreSQL, Microsoft SQL Server, T-SQL[cite: 2] |
-| **Performance Tuning** | Composite B-Tree Indexing, Table Partitioning, Execution Plan Analysis[cite: 2] |
-| **Programming & Automation** | Python (Pandas, NumPy), Linux CLI / WSL, Git, Stored Procedures[cite: 2] |
-| **BI & Analytics** | Power BI (DAX, Modeling), Tableau, Looker Studio, Advanced Excel[cite: 2] |
-
----
-
-<div align="center">
-
-# Manas Ranjan Sahu
-### Analytics Engineer & Data Consultant
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-sensei)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas-Sensei)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manassensei@gmail.com)
-
-<p align="center">
-  <b>Bengaluru, India</b> • <b>3+ Years Experience</b> • <b>Available Immediately</b>
-</p>
-
----
-
-</div>
-
-## 📌 About Me
-
-Data Professional specializing in database internals, query optimization, and structural data warehousing[cite: 2]. Experienced in architecting end-to-end Medallion architectures, engineering optimized query plans across 1M+ row datasets, and delivering executive Power BI solutions[cite: 2].
-
-- 🔭 **Current Focus:** Scalable ELT Pipelines, Medallion Architecture, and Query Performance Tuning[cite: 2].
-- ⚡ **Key Milestone:** Reduced production query execution runtimes by up to **87.4%** via indexing and partition pruning[cite: 2].
-- 🌱 **Learning & Scaling:** Deepening dbt + Snowflake orchestration models.
-
----
-
-## 🛠️ Tech Stack & Tooling
-
 <div align="center">
 
 ### Languages & Querying
 <p>
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql&perline=6" alt="Languages" />
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/T--SQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />
+  <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-### Data Warehousing, Modeling & Cloud
+### Warehousing, Modeling & Architecture
 <p>
-  <img src="https://skillicons.dev/icons?i=snowflake,gcp&perline=6" alt="Data Warehousing" />
+  <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/SNOWFLAKE-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MEDALLION_ARCHITECTURE-555555?style=for-the-badge" alt="Medallion Architecture" />
+  <img src="https://img.shields.io/badge/STAR_SCHEMA-4F46E5?style=for-the-badge" alt="Star Schema" />
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0284C7?style=for-the-badge" alt="ETL / ELT" />
 </p>
 
 ### Business Intelligence & Reporting
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/POWER_BI-EAA832?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/TABLEAU-D36A34?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/LOOKER_STUDIO-5178DC?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/EXCEL-3F7B4E?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
 ### Systems, Dev & Tooling
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&perline=6" alt="Tools" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="WSL" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
