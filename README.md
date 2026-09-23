@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/EXCEL-3F7B4E?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
----
+<hr>
 
 ### 📸 Photography
 
