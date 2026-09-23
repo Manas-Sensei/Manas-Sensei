@@ -1,7 +1,9 @@
 <div align="center">
 
-# Manas Ranjan Sahu
-### Analytics Engineer & Data Consultant
+# MANAS RANJAN SAHU
+ <a href="https://linkedin.com/in/manas-sensei">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Analytics+Engineer+%7C+Data+Consultant;dbt+%E2%80%A2+Snowflake+%E2%80%A2+PostgreSQL+%E2%80%A2+Python;High-Performance+ELT+%26+Medallion+Pipelines" alt="Typing Header" />
+  </a> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-sensei)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas-Sensei)
@@ -68,29 +70,99 @@ Data Professional specializing in database internals, query optimization, and st
 <div align="center">
 
   <!-- Dynamic Typing Header -->
-  <a href="https://linkedin.com/in/manas-sensei">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Manas+Ranjan+Sahu;Analytics+Engineer+%7C+Data+Consultant;dbt+%E2%80%A2+Snowflake+%E2%80%A2+PostgreSQL+%E2%80%A2+Python;High-Performance+ELT+%26+Medallion+Pipelines" alt="Typing Header" />
-  </a>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/manas-sensei"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/Manas-Sensei"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-    <a href="mailto:manassensei@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20IN-0ea5e9?style=flat-square&logo=google-maps&logoColor=white" />
-    <img src="https://img.shields.io/badge/Experience-3%2B%20Years-10b981?style=flat-square" />
-  </p>
 
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <div align="center">
+
+# MANAS RANJAN SAHU
+
+<a href="https://linkedin.com/in/manas-sensei">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Data+Analytics+Professional+%7C+Data+Consultant;SQL+%E2%80%A2+dbt+%E2%80%A2+Snowflake+%E2%80%A2+Power+BI;Data+Modeling+%E2%80%A2+ELT+%E2%80%A2+Query+Optimization;Building+Towards+Analytics+Engineering" alt="Typing Header" />
+</a>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-sensei)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manas-Sensei)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manassensei@gmail.com)
+
+<p align="center">
+  <b>Bengaluru, India</b> • <b>3+ Years Experience</b> • <b>Open to Opportunities</b>
+</p>
 
 </div>
 
-### ⚡ Executive Profile
+---
 
-```yaml
-role: Analytics Engineer & Data Consultant
-focus: Scalable Ingestion, Medallion Warehousing & Query Performance
-strengths:
-  - Complex SQL Optimization (B-Tree Indexes, Partition Pruning)
-  - Medallion Schema Architecture (Bronze -> Silver -> Gold)
-  - Business Impact KPI Modeling (DAX / Power BI)
-status: Open for impactful full-time roles
+## 📌 About Me
+
+**Data Analytics Professional with 3+ years of experience in data analytics and consulting, focused on building reliable, scalable data workflows and analytics solutions.**
+
+My core strengths are **advanced SQL, data modeling, data warehousing, query performance optimization, and BI**.
+
+Currently building deeper expertise in **dbt, Snowflake, Airflow, and modern ELT practices for Analytics Engineering**.
+
+- 🔧 **Core Strengths:** SQL, Data Modeling, Data Warehousing & Query Optimization
+- 🏗️ **Engineering Direction:** dbt, Snowflake, ELT & Medallion Architecture
+- 📊 **Analytics Layer:** Power BI, DAX & Business Analytics
+- ⚡ **Performance:** Reduced query execution time by up to **87.4%** through indexing and partition pruning
+- 🌱 **Currently Learning:** Modern Analytics Engineering workflows, orchestration and cloud data platforms
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 Core Data & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/T--SQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="T-SQL" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />
+</p>
+
+### 🏗️ Data Engineering & Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/SNOWFLAKE-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0284C7?style=for-the-badge" alt="ETL / ELT" />
+  <img src="https://img.shields.io/badge/DATA_MODELING-4F46E5?style=for-the-badge" alt="Data Modeling" />
+  <img src="https://img.shields.io/badge/STAR_SCHEMA-4F46E5?style=for-the-badge" alt="Star Schema" />
+  <img src="https://img.shields.io/badge/MEDALLION_ARCHITECTURE-555555?style=for-the-badge" alt="Medallion Architecture" />
+</p>
+
+### 💻 Programming & Systems
+
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="WSL" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+### 📊 BI & Reporting
+
+<p>
+  <img src="https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/LOOKER_STUDIO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio" />
+</p>
+
+### 🔄 Currently Building
+
+<p>
+  <img src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+</p>
+
+---
+
+
+
