@@ -5,7 +5,7 @@
 </h1>
 
 <a href="https://linkedin.com/in/manas-sensei">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Data+Analyst+Consultant;SQL+%E2%80%A2+Snowflake+%E2%80%A2+dbt+%E2%80%A2+Python+%E2%80%A2+Power+BI;Data+Modeling+%E2%80%A2+ELT+%E2%80%A2+Query+Optimization;Building+Towards+Analytics+Engineering" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Data+Analyst+Consultant;SQL+%E2%80%A2+Snowflake+%E2%80%A2+dbt+%E2%80%A2+Python+%E2%80%A2+Power+BI;Building+Towards+Analytics+Engineering" alt="Typing Header" />
 </a>
 
 <br>
@@ -38,7 +38,6 @@
 ### Languages & Querying
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/T--SQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="T-SQL" />
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX" />
@@ -49,9 +48,8 @@
 <p>
   <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
   <img src="https://img.shields.io/badge/SNOWFLAKE-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/SQL_SERVER-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MEDALLION_ARCHITECTURE-555555?style=for-the-badge" alt="Medallion Architecture" />
-  <img src="https://img.shields.io/badge/STAR_SCHEMA-4F46E5?style=for-the-badge" alt="Star Schema" />
+  <img src="https://img.shields.io/badge/STAR_SCHEMA-4F46E5?style=for-the-badge" alt="Data Modeling" />
   <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0284C7?style=for-the-badge" alt="ETL / ELT" />
 </p>
 
@@ -63,13 +61,14 @@
   <img src="https://img.shields.io/badge/EXCEL-3F7B4E?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
-### Systems, Dev & Tooling
+### Infrastructure & Tools
 <p>
   <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="WSL" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
 </p>
 
 </div>
